@@ -10,4 +10,4 @@ This repository contains coursework from **CICS 160 – Object-Oriented Programm
 - Debugging and testing
 
 ## Notes
-This repository demonstrates foundational programming skills using Python and object-oriented design principles.
+This course emphasizes object-oriented programming in Python, including designing classes, using inheritance, and developing modular, well-structured programs.
